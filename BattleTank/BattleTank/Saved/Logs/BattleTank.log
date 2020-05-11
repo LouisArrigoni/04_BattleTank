@@ -675,3 +675,718 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.11-10.46.29:484][174]Writing project files...
 [2020.05.11-10.46.30:900][174]Writing project files... 100%
 [2020.05.11-10.47.25:868][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.50.14:880][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.52.03:123][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-10.52.16:249][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.52.21:418][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.52.30:403][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-10.52.30:624][657]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2020.05.11-10.52.30:625][657]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2020.05.11-10.52.30:625][657]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2020.05.11-10.52.30:625][657]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2020.05.11-10.52.57:558][731]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.05.11-10.52.57:627][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.53.07:351][775]Cmd: DELETE
+[2020.05.11-10.53.07:351][775]Cmd: ACTOR DELETE
+[2020.05.11-10.53.07:357][775]LogEditorActor: Deleted Actor: Landscape
+[2020.05.11-10.53.07:452][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.05.11-10.53.07:452][775]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2020.05.11-10.53.09:665][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-10.53.09:742][ 46]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2020.05.11-10.53.49:663][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-10.54.23:655][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-10.55.47:225][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.55.50:399][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.55.53:405][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.56.03:887][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.56.10:469][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-10.56.25:698][457]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 512X512)
+[2020.05.11-10.56.25:699][457]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 512X512)
+[2020.05.11-10.56.25:708][457]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 512X512)
+[2020.05.11-10.56.25:708][457]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 512X512)
+[2020.05.11-10.56.25:710][457]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 512X512)
+[2020.05.11-10.56.25:710][457]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 512X512)
+[2020.05.11-10.56.25:711][457]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2020.05.11-10.56.36:288][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.56.41:354][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-10.56.53:029][410]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.11-10.56.53:040][410]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2020.05.11-10.56.53:040][410]LogSynthBenchmark: Display: ===============
+[2020.05.11-10.56.53:040][410]LogSynthBenchmark: Display: Main Processor:
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:          ... 0.017216 s/Run 'RayIntersect'
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:          ... 0.014544 s/Run 'Fractal'
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display: 
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 24
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   NumberOfCores (physical): 6
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   NumberOfCores (logical): 12
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   CPU Perf Index 0: 148.8 (weight 1.00)
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   CPU Perf Index 1: 196.6 (weight 1.50)
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:  
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display: Graphics:
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 980 Ti'
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   Device Id: 0x17C8
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2020.05.11-10.56.53:072][410]LogSynthBenchmark: Display:   GPU Memory: 6098/0/12264 MB
+[2020.05.11-10.56.53:630][410]LogSynthBenchmark: Display:   GPU first test: 0.00s
+[2020.05.11-10.56.53:631][410]LogSynthBenchmark: Display:          ... 6.807 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.05.11-10.56.53:631][410]LogSynthBenchmark: Display:          ... 4.663 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2020.05.11-10.56.53:631][410]LogSynthBenchmark: Display:          ... 3.336 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.05.11-10.56.53:631][410]LogSynthBenchmark: Display:          ... 8.275 s/GigaPix, Confidence=70% 'FillOnly' (likely to be very inaccurate)
+[2020.05.11-10.56.53:631][410]LogSynthBenchmark: Display:          ... 1.074 s/GigaPix, Confidence=89% 'Bandwidth' (likely to be very inaccurate)
+[2020.05.11-10.56.53:631][410]LogSynthBenchmark: Display:          ... 31.793 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.05.11-10.56.53:631][410]LogSynthBenchmark: Display:          ... 31.527 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:   GPU second test: 0.01s
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:          ... 12.470 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:          ... 11.267 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:          ... 9.204 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:          ... 38.748 s/GigaPix, Confidence=89% 'FillOnly' (likely to be inaccurate)
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:          ... 1.513 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:          ... 8.416 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be inaccurate)
+[2020.05.11-10.56.54:161][410]LogSynthBenchmark: Display:          ... 5.286 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2020.05.11-10.56.54:827][410]LogSynthBenchmark: Display:   GPU third test: 0.14s
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 16.690 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 13.335 s/GigaPix, Confidence=89% 'TexHeavy'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 11.893 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 63.375 s/GigaPix, Confidence=100% 'FillOnly'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 1.599 s/GigaPix, Confidence=100% 'Bandwidth'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 5.347 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 4.930 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 16.690 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 13.335 s/GigaPix, Confidence=89% 'TexHeavy'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 11.893 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 63.375 s/GigaPix, Confidence=100% 'FillOnly'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 1.599 s/GigaPix, Confidence=100% 'Bandwidth'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 5.347 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... 4.930 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display: 
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Perf Index 0: 362.8 (weight 1.00)
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Perf Index 1: 179.1 (weight 0.10)
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Perf Index 2: 309.2 (weight 0.10)
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Perf Index 3: 248.9 (weight 3.00)
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Perf Index 4: 149.2 (weight 1.00)
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Perf Index 5: 347.9 (weight 0.00)
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPU Perf Index 6: 279.0 (weight 0.00)
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   GPUIndex: 251.4
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:   CPUIndex: 177.5
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display: 
+[2020.05.11-10.56.54:828][410]LogSynthBenchmark: Display:          ... Total Time: 1.788503 sec
+[2020.05.11-10.56.54:828][410]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.11-10.56.54:828][410]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.11-10.56.54:828][410]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.11-10.56.54:828][410]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.11-10.56.54:829][410]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.11-10.56.54:830][410]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.11-10.56.54:830][410]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.11-10.56.54:830][410]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.11-10.56.54:830][410]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.11-10.57.04:773][513]MapCheck: New page: Map Check
+[2020.05.11-10.57.04:800][513]LightingResults: New page: Lighting Build - 11 May 2020 12:57:04
+[2020.05.11-10.57.04:885][513]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.11-10.57.04:950][513]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.11-10.57.04:963][513]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.11-10.57.05:472][513]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.11-10.57.05:472][513]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6716
+[2020.05.11-10.57.07:954][513]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.05.11-10.57.07:954][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.11-10.57.07:954][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.11-10.57.07:954][513]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.11-10.57.07:954][513]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.11-10.57.07:954][513]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.11-10.57.08:401][513]LogEditorBuildUtils: Build time 0:03
+[2020.05.11-10.57.08:434][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1078, compiling. Is special engine material.
+[2020.05.11-10.57.08:445][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1078, compiling. Is special engine material.
+[2020.05.11-10.57.16:232][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.05.11-10.57.36:945][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.11-10.57.37:523][453]LogSavePackage: Moving 'G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/BattleGround_Auto1AA175AEC4A8A37AF16FEAE8727159ED9.tmp' to 'G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/Autosaves/Game/Levels/BattleGround_Auto1.umap'
+[2020.05.11-10.57.37:525][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/BattleGround' took 0.606
+[2020.05.11-10.57.37:525][453]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.606
+[2020.05.11-10.58.35:441][724]Job is a success!
+[2020.05.11-10.58.36:010][725]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.167s
+[2020.05.11-10.58.36:011][725]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.05.11-10.58.36:011][725]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb
+[2020.05.11-10.58.36:011][725]LogVolumetricLightmapImport:      Bricks at Level
+[2020.05.11-10.58.36:011][725]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2020.05.11-10.58.36:011][725]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2020.05.11-10.58.36:011][725]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2020.05.11-10.58.39:683][725]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 512X512)
+[2020.05.11-10.58.39:684][725]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 512X512)
+[2020.05.11-10.58.39:685][725]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 512X512)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 64X64)
+[2020.05.11-10.58.39:686][725]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 64X64)
+[2020.05.11-10.58.39:833][725]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X256)
+[2020.05.11-10.58.39:834][725]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 32X32)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 256X256)
+[2020.05.11-10.58.39:835][725]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 256X256)
+[2020.05.11-10.58.39:880][725]Lightmass on ARRIGONI: 1:23 min total, 2.07 sec importing, 3.45 sec setup, 17.4 sec photons, 1:00 min processing, 0 ms extra exporting [65/65 mappings]. Threads: 11:00 min total, 5:07 min processing.
+[2020.05.11-10.58.39:897][725]LogStaticLightingSystem: BattleGround_BuiltData storing lightmap data for 65 meshes in 65 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.05.11-10.58.39:947][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.05.11-10.58.39:950][725]LogStaticLightingSystem: Illumination: 1:34 min (3.20 sec encoding lightmaps, 145 ms encoding shadowmaps)
+[2020.05.11-10.58.39:950][725]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2020.05.11-10.58.39:950][725]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2020.05.11-10.58.41:000][725]DumpUnbuiltLightIteractions
+[2020.05.11-10.58.41:000][725]Lights with unbuilt interactions: 0
+[2020.05.11-10.58.41:000][725]
+[2020.05.11-10.58.41:000][725]Primitives with unbuilt interactions: 0
+[2020.05.11-10.58.41:143][726]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.11-10.58.41:143][726]MapCheck: New page: BattleGround - 11 May 2020 12:58:41
+[2020.05.11-10.58.41:143][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.669ms to complete.
+[2020.05.11-10.58.43:534][737]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-10.58.43:563][737]LogSlate: Window 'Message Log' being destroyed
+[2020.05.11-11.02.35:454][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.03.20:645][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.03.22:362][936]MapCheck: New page: Map Check
+[2020.05.11-11.03.22:373][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.03.22:376][936]LightingResults: New page: Lighting Build - 11 May 2020 13:03:22
+[2020.05.11-11.03.22:402][936]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.11-11.03.22:406][936]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.11-11.03.22:407][936]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.11-11.03.22:407][936]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.11-11.03.22:408][936]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6716
+[2020.05.11-11.03.27:207][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.11-11.03.27:207][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.11-11.03.27:207][936]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.11-11.03.27:207][936]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.11-11.03.27:207][936]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.11-11.03.27:563][936]LogEditorBuildUtils: Build time 0:05
+[2020.05.11-11.03.27:608][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.05.11-11.03.47:046][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.04.22:092][669]Job is a success!
+[2020.05.11-11.04.22:117][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.04.22:310][670]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2020.05.11-11.04.22:310][670]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.11-11.04.22:310][670]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2020.05.11-11.04.22:310][670]LogVolumetricLightmapImport:      Bricks at Level
+[2020.05.11-11.04.22:310][670]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2020.05.11-11.04.22:310][670]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2020.05.11-11.04.22:310][670]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:008][670]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 512X512)
+[2020.05.11-11.04.26:009][670]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 512X512)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 64X64)
+[2020.05.11-11.04.26:010][670]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 64X64)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 256X256)
+[2020.05.11-11.04.26:159][670]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 256X256)
+[2020.05.11-11.04.26:160][670]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (G8, 32X32)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 256X256)
+[2020.05.11-11.04.26:161][670]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (G8, 256X256)
+[2020.05.11-11.04.26:171][670]LogStaticLightingSystem: BattleGround_BuiltData storing lightmap data for 65 meshes in 65 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.05.11-11.04.26:211][670]Lightmass on ARRIGONI: 58.1 sec total, 2.05 sec importing, 3.33 sec setup, 16.2 sec photons, 36.5 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 6:41 min total, 5:06 min processing.
+[2020.05.11-11.04.26:217][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.05.11-11.04.26:224][670]LogStaticLightingSystem: Illumination: 1:03 min (3.24 sec encoding lightmaps, 147 ms encoding shadowmaps)
+[2020.05.11-11.04.26:224][670]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2020.05.11-11.04.26:224][670]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2020.05.11-11.04.27:247][670]DumpUnbuiltLightIteractions
+[2020.05.11-11.04.27:248][670]Lights with unbuilt interactions: 0
+[2020.05.11-11.04.27:248][670]
+[2020.05.11-11.04.27:248][670]Primitives with unbuilt interactions: 0
+[2020.05.11-11.04.27:251][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.04.27:305][671]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.11-11.04.27:306][671]MapCheck: New page: BattleGround - 11 May 2020 13:04:27
+[2020.05.11-11.04.27:306][671]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.262ms to complete.
+[2020.05.11-11.04.30:942][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.05.12:559][ 27]Cmd: TRANSACTION UNDO
+[2020.05.11-11.05.12:559][ 27]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.05.11-11.05.15:083][273]Cmd: TRANSACTION UNDO
+[2020.05.11-11.05.15:083][273]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.05.11-11.05.19:550][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.05.31:898][250]Cmd: TRANSACTION UNDO
+[2020.05.11-11.05.31:898][250]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.05.11-11.05.34:802][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.05.43:454][297]Cmd: TRANSACTION UNDO
+[2020.05.11-11.05.43:454][297]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.05.11-11.05.49:866][976]Cmd: TRANSACTION UNDO
+[2020.05.11-11.05.49:866][976]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.05.11-11.05.52:449][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.06.45:140][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.06.49:217][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.07.00:358][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.08.03:045][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.08.16:797][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.08.37:493][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.09.29:795][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.10.51:133][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.11.08:661][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.11.13:851][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.11.17:706][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-11.12.12:647][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.12.13:587][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-11.12.13:591][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BattleGround" FILE="G:/C++ Learning/BattleTank/BattleTank/BattleTank/Content/Levels/BattleGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.11-11.12.13:624][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.11-11.12.13:746][621]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2020.05.11-11.12.13:751][621]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X512)
+[2020.05.11-11.12.13:756][621]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2020.05.11-11.12.13:761][621]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X512)
+[2020.05.11-11.12.13:766][621]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 512X512)
+[2020.05.11-11.12.13:770][621]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 512X512)
+[2020.05.11-11.12.13:775][621]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 512X512)
+[2020.05.11-11.12.13:779][621]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2020.05.11-11.12.13:784][621]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2020.05.11-11.12.13:789][621]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 512X512)
+[2020.05.11-11.12.13:796][621]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 512X512)
+[2020.05.11-11.12.13:801][621]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 512X512)
+[2020.05.11-11.12.13:805][621]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 512X512)
+[2020.05.11-11.12.13:810][621]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 512X512)
+[2020.05.11-11.12.13:815][621]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 512X512)
+[2020.05.11-11.12.13:819][621]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 512X512)
+[2020.05.11-11.12.14:266][621]LogSavePackage: Moving 'G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/BattleGround3358B8DC46040451EE0FB2A0300475B8.tmp' to 'G:/C++ Learning/BattleTank/BattleTank/BattleTank/Content/Levels/BattleGround.umap'
+[2020.05.11-11.12.14:276][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BattleGround_BuiltData" FILE="G:/C++ Learning/BattleTank/BattleTank/BattleTank/Content/Levels/BattleGround_BuiltData.uasset" SILENT=true
+[2020.05.11-11.12.15:452][621]LogSavePackage: Moving 'G:/C++ Learning/BattleTank/BattleTank/BattleTank/Saved/BattleGround_BuiltDataBEDC25464075AA0B175D78B6E7F9D43D.tmp' to 'G:/C++ Learning/BattleTank/BattleTank/BattleTank/Content/Levels/BattleGround_BuiltData.uasset'
